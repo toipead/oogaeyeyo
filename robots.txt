@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://quaiwaaci.fmontes.com/sitemap.xml
